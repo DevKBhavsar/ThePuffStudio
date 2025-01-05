@@ -4,5 +4,8 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ThePuffStudio/',  // Base path for GitHub Pages
+  server: {
+    port: 3000,
+  },
+  
 });
