@@ -15,7 +15,7 @@ function Footer() {
 
           <div className="flex gap-3 items-center">
             <a
-              href="https://web.whatsapp.com/"
+              href="https://wa.me/+918799535500"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-green-500 transition-colors"
